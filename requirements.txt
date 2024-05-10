@@ -1,0 +1,5 @@
+elasticsearch
+pandas
+sentence-transformers
+streamlit
+jupyterlab
